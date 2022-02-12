@@ -1,4 +1,4 @@
-# About-Me
+# About Me
 
 I've accomplished complete web development Bootcamps on Udemy </br>  including HTML, CSS, Bootstrap, Javascript, jQuery, and React. </br> 
 Although these courses covered basic backend and database competences, </br>  I continued my learning journey with MySQL and Python classes. </br> 
