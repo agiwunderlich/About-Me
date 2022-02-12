@@ -7,7 +7,7 @@ Although these courses covered basic backend and database competences, </br>  I 
 
 
 I'm highly motivated in learning new things, and always take responsibility for my own professional development. </br> 
-My skills are more like self-acquired knowledge and not working experience, but I strongly believe that if you are passionate about something, your productivity level increase significantly. 
+My skills are more like self-acquired knowledge and not working experience, but I strongly believe that if you are passionate about something, your productivity level increases significantly. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift)](https://github.com/agiwunderlich/github-readme-stats)
