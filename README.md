@@ -1,13 +1,12 @@
 # About Me
 
-I've accomplished complete web development Bootcamps on Udemy </br>  including HTML, CSS, Bootstrap, Javascript, jQuery, and React. </br> 
-Although these courses covered basic backend and database competences, </br>  I continued my learning journey with MySQL and Python classes. </br> 
+Welcome to my GitHub page! I'm excited to share with you my journey in becoming a skilled developer and data analyst. I have completed several Udemy courses in frontend development and data analytics, covering a broad range of topics - HTML, CSS, Bootstrap, Javascript, jQuery and React. In addition to basic backend and database competencies, I have further expanded my knowledge by delving into mySQL and Python. Throughout my learning journey, I have also acquired valuable skills in using Git for version control. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiwunderlich&hide=glsl,ejs)](https://github.com/agiwunderlich/github-readme-stats)
 
 
-I'm highly motivated in learning new things, and always take responsibility for my own professional development. </br> 
-My skills are more like self-acquired knowledge and not working experience, but I strongly believe that if you are passionate about something, your productivity level increases significantly. 
+I'm highly motivated in learning new things, and always take responsibility for my own professional development. 
+I believe that continuous learning is the key to success, and I am committed to expanding my skillset and staying up-to-date with the latest technologies. Feel free to explore my GitHub repositories to see some of the projects I have worked on and the skills I have developed. Thank you for visiting my page, and I look forward to connecting with you!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift)](https://github.com/agiwunderlich/github-readme-stats)
