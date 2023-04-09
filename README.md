@@ -16,6 +16,8 @@ My skills are more like self-acquired knowledge and not working experience, but 
 
 <h2>My Certificates </h2>
 
+<h3>Front-end Development</h3>
+
 
 <a href="https://www.udemy.com/certificate/UC-f97ed5cb-0ccf-463a-9eae-fc33493a5e4c/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"></a> The Modern Javascript Bootcamp by Andrew Mead  
 
@@ -37,3 +39,10 @@ My skills are more like self-acquired knowledge and not working experience, but 
 <a href="https://www.hackerrank.com/certificates/d02ad563020a"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"></a> HackerRank - JavaScript (Basic) Certificate 
 
 <a href="https://www.hackerrank.com/certificates/ad9236140547"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"></a> HackerRank - React (Basic) Certificate 
+
+
+<h3>Data Analytics</h3>
+
+<a href="https://www.udemy.com/certificate/UC-2c882fc9-aec8-47e1-ad52-cf68fef233ce/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"></a> SQL - MySQL for Data Analytics and Business Intelligence
+
+<a href="https://www.udemy.com/certificate/UC-265ab474-b100-4233-a0a2-0a48704d0f96/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"></a> Tableau 2022 A-Z:Hands-On Tableau Training for Data Science
