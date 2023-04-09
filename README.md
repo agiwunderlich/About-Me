@@ -6,7 +6,8 @@ Welcome to my GitHub page! I'm excited to share with you my journey in becoming 
 
 
 I'm highly motivated in learning new things, and always take responsibility for my own professional development. 
-I believe that continuous learning is the key to success, and I am committed to expanding my skillset and staying up-to-date with the latest technologies. Feel free to explore my GitHub repositories to see some of the projects I have worked on and the skills I have developed. Thank you for visiting my page, and I look forward to connecting with you!
+I believe that continuous learning is the key to success, and I am committed to expanding my skillset and staying up-to-date with the latest technologies. </br> </br> Feel free to explore my GitHub repositories to see some of the projects I have worked on and the skills I have developed. Thank you for visiting my page, and I look forward to connecting with you!
+</br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift)](https://github.com/agiwunderlich/github-readme-stats)
@@ -40,7 +41,7 @@ I believe that continuous learning is the key to success, and I am committed to 
 <a href="https://www.hackerrank.com/certificates/ad9236140547"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - React (Basic) Certificate </a>
 
 
-
+</br>
 <h3>Data Analytics</h3>
 
 <a href="https://www.udemy.com/certificate/UC-2c882fc9-aec8-47e1-ad52-cf68fef233ce/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> SQL - MySQL for Data Analytics and Business Intelligence </a>
