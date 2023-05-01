@@ -1,16 +1,29 @@
 # About Me
+<div>
+<blockquote> <img align='right' src="https://i.pinimg.com/736x/ac/e8/66/ace866978cff0df3c390d98ce354737a.jpg" alt="Laptop" width="200" height="200"> <strong>Welcome to my GitHub page!</strong> 💻 </br> I'm excited to share with you my journey in becoming a skilled developer and data analyst. </br> I have completed several Udemy courses in frontend development and data analytics, </br> covering a broad range of topics - HTML, CSS, Bootstrap, Javascript, jQuery and React. </br> In addition to basic backend and database competencies, I have further expanded my knowledge </br> by delving into mySQL and Python. </br> Throughout my learning journey, I have also acquired valuable skills in using Git for version control. 
 
-Welcome to my GitHub page! I'm excited to share with you my journey in becoming a skilled developer and data analyst. I have completed several Udemy courses in frontend development and data analytics, covering a broad range of topics - HTML, CSS, Bootstrap, Javascript, jQuery and React. In addition to basic backend and database competencies, I have further expanded my knowledge by delving into mySQL and Python. Throughout my learning journey, I have also acquired valuable skills in using Git for version control. 
+</blockquote>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiwunderlich&hide=glsl,ejs)](https://github.com/agiwunderlich/github-readme-stats)
+</div>
 
 
-I'm highly motivated in learning new things, and always take responsibility for my own professional development. 
-I believe that continuous learning is the key to success, and I am committed to expanding my skillset and staying up-to-date with the latest technologies. </br> </br> Feel free to explore my GitHub repositories to see some of the projects I have worked on and the skills I have developed. Thank you for visiting my page, and I look forward to connecting with you!
+#
+
+</br>
 </br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift)](https://github.com/agiwunderlich/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiwunderlich&hide=glsl,ejs,scss,typescript&langs_count=3)](https://github.com/agiwunderlich/github-readme-stats)
+
+
+> I'm highly motivated in learning new things, and always take responsibility for my own professional development. 
+I believe that continuous learning is the key to success, and I am committed to expanding my skillset and staying up-to-date with the latest technologies. </br> </br> Feel free to explore my GitHub repositories to see some of the projects I have worked on and the skills I have developed. </br>Thank you for visiting my page, and I look forward to connecting with you!
+</br>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift&rank_icon=github)](https://github.com/agiwunderlich/github-readme-stats)
 
 
 
