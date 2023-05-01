@@ -54,7 +54,7 @@ I believe that continuous learning is the key to success, and I am committed to 
 
 <a target=”_blank” href="https://www.hackerrank.com/certificates/c7ce3c423541"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - CSS Certificate </a>
 
-<a target=”_blank” href="https://www.hackerrank.com/certificates/d02ad563020a"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - JavaScript (Basic) Certificate </a>
+<a href="https://www.hackerrank.com/certificates/d02ad563020a" target=”_blank”><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - JavaScript (Basic) Certificate </a>
 
 <a target=”_blank” href="https://www.hackerrank.com/certificates/ad9236140547"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - React (Basic) Certificate </a>
 
