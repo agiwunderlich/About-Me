@@ -27,7 +27,7 @@ I believe that continuous learning is the key to success, and I am committed to 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift&rank_icon=github)](https://github.com/agiwunderlich/github-readme-stats)
 
-
+</br>
 
 <h2>My Certificates </h2>
 
