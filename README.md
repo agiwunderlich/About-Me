@@ -64,9 +64,12 @@ I believe that continuous learning is the key to success, and I am committed to 
 <a href="https://www.udemy.com/certificate/UC-265ab474-b100-4233-a0a2-0a48704d0f96/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> Tableau 2022 A-Z:Hands-On Tableau Training for Data Science </a>
 
 </br>
+<blockquote> 
+Thank you for visiting my page, and I look forward to connecting with you!
+</br>
+</br>
+<a href="https://www.linkedin.com/in/agnes-wunderlich/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Laptop" width="30" height="30"></a>
+ 
 
-> Thank you for visiting my page, and I look forward to connecting with you!
-
-<div>
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="agnes-wunderlich" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/agnes-wunderlich?trk=profile-badge">Agnes Wunderlich</a></div>
-</div>             
+       
+</blockquote> 
