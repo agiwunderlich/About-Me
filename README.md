@@ -3,7 +3,7 @@
 
 # About Me
 <div>
-<blockquote> <img align='right' src="https://i.pinimg.com/736x/ac/e8/66/ace866978cff0df3c390d98ce354737a.jpg" alt="Laptop" width="200" height="200"> <strong>Welcome to my GitHub page!</strong> 💻 </br> I'm excited to share with you my journey in becoming a skilled developer and data analyst. </br> I have completed several Udemy courses in frontend development and data analytics, </br> covering a broad range of topics - HTML, CSS, Bootstrap, Javascript, jQuery and React. </br> In addition to basic backend and database competencies, I have further expanded my knowledge </br> by delving into mySQL and Python. </br> Throughout my learning journey, I have also acquired valuable skills in using Git for version control. 
+<blockquote> <img align='right' src="https://i.pinimg.com/736x/ac/e8/66/ace866978cff0df3c390d98ce354737a.jpg" alt="Laptop" width="200" height="200"> <strong>Welcome to my GitHub page!</strong> 💻 </br> I'm excited to share with you my journey in becoming a skilled developer and data analyst. I have completed several Udemy courses in frontend development and data analytics, covering a broad range of topics - HTML, CSS, Bootstrap, Javascript, jQuery and React. In addition to basic backend and database competencies, I have further expanded my knowledge by delving into mySQL and Python. Throughout my learning journey, I have also acquired valuable skills in using Git for version control. 
 
 </blockquote>
 
