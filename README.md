@@ -27,8 +27,8 @@ I believe that continuous learning is the key to success, and I am committed to 
 
 </br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift&rank_icon=github)](https://github.com/agiwunderlich/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiwunderlich&show_icons=true&theme=swift&rank_icon=github)](https://github.com/agiwunderlich/github-readme-stats) -->
 
 </br>
 
@@ -58,7 +58,6 @@ I believe that continuous learning is the key to success, and I am committed to 
 
 <a target=”_blank” href="https://www.hackerrank.com/certificates/ad9236140547"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon-filled.png" alt="hackerrank" width="20" height="20"> HackerRank - React (Basic) Certificate </a>
 
-
 </br>
 <h3>Data Analytics</h3>
 
@@ -69,7 +68,7 @@ I believe that continuous learning is the key to success, and I am committed to 
 </br>
 <h3>Version Control</h3>
 
-<a target=”_blank” href="https://www.udemy.com/certificate/UC-d4c7b7d4-272b-4e60-9445-bfbb102b69d1"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20">The Git and Github Bootcamp</a>
+<a target=”_blank” href="https://www.udemy.com/certificate/UC-d4c7b7d4-272b-4e60-9445-bfbb102b69d1"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> The Git and Github Bootcamp</a>
 
 
 #
