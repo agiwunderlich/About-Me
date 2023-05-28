@@ -67,6 +67,10 @@ I believe that continuous learning is the key to success, and I am committed to 
 <a target=”_blank” href="https://www.udemy.com/certificate/UC-265ab474-b100-4233-a0a2-0a48704d0f96/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> Tableau 2022 A-Z:Hands-On Tableau Training for Data Science </a>
 
 </br>
+<h3>Version Control</h3>
+
+<a target=”_blank” href="https://www.udemy.com/certificate/UC-d4c7b7d4-272b-4e60-9445-bfbb102b69d1"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20">The Git and Github Bootcamp</a>
+
 
 #
 
