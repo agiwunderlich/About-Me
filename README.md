@@ -75,6 +75,8 @@ I believe that continuous learning is the key to success, and I am committed to 
 
 <a target=”_blank” href="https://www.udemy.com/certificate/UC-567e5dd4-033b-41ea-930b-47293fcf1202/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> ChatGPT Complete Guide: Learn Midjourney, ChatGPT 4 & More</a>
 
+<a target=”_blank” href="https://www.udemy.com/certificate/UC-4c4714f3-468e-4c3f-9b1b-345e8bacbfe9/"><img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_0KKraw2.png" alt="udemy" width="40" height="20"> Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4</a>
+
 
 #
 
